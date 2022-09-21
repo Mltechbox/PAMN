@@ -11,4 +11,4 @@
 
 ## ARIA
 8. Introduction to ARIA [Introduction](https://web.dev/semantics-aria/)
-10.Accessible Rich Internet Applications [ARIA](https://www.lullabot.com/articles/what-heck-aria-beginners-guide-aria-accessibility)
+9. Accessible Rich Internet Applications [ARIA](https://www.lullabot.com/articles/what-heck-aria-beginners-guide-aria-accessibility)

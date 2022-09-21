@@ -8,3 +8,6 @@
 5. Fundamentals: [WAI Fundamentals](https://www.w3.org/WAI/fundamentals/)
 6. Web Content Accessibility Guidelines: [WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/)
 7. More information in A11Y Project: [A11Y](https://www.a11yproject.com/posts/what-is-wai/)
+# ARIA
+8. Introduction to ARIA [Introduction](https://web.dev/semantics-aria/)
+10.Accessible Rich Internet Applications [ARIA](https://www.lullabot.com/articles/what-heck-aria-beginners-guide-aria-accessibility)

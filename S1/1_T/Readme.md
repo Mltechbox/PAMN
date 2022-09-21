@@ -7,4 +7,4 @@
 # Web Accessibility Initiative
 5. Fundamentals: [WAI Fundamentals](https://www.w3.org/WAI/fundamentals/)
 6. Web Content Accessibility Guidelines: [WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/)
-7.More information in A11Y Project: [A11Y](https://www.a11yproject.com/posts/what-is-wai/)
+7. More information in A11Y Project: [A11Y](https://www.a11yproject.com/posts/what-is-wai/)

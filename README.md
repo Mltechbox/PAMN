@@ -1,6 +1,6 @@
 # PAMN
 
-![https://www.ulpgc.es/](https://github.com/Mltechbox/PAMN/blob/main/S1.png?raw=true)
+![https://www.ulpgc.es/](https://github.com/Mltechbox/PAMN/blob/main/S1.png?raw=true "PAMN")
 
 ### Encuéntrame en:
 

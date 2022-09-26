@@ -1,6 +1,6 @@
 # PAMN
 
-![Protada](https://github.com/Mltechbox/PAMN/blob/main/S1.png?raw=true "PAMN")
+![Protada](https://github.com/Mltechbox/PAMN/blob/main/S1.png?raw=true/400/800 "PAMN")
 
 ### Encuéntrame en:
 

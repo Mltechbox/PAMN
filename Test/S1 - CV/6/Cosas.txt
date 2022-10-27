@@ -1,0 +1,11 @@
+1
+Crear proyectos, compilarlos
+Conocer la estructura de carpetas y el fichero XML
+Crear layouts
+Compilar y ejecutar
+Hacer cambios en la configuración de gradle
+Añadir comentarios al log cat (concatenación de logs)
+	I Info
+	E Errors
+	W Warnings
+	D Debugs

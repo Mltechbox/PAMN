@@ -15,7 +15,7 @@ nav:
   - Inicio: index.md
   - Temario:
       - Bloque 1:
-          - Introducción: Temario/Bloque1/index.md
-          - Arquitectura y ciclo de vida: Temario/Bloque1/01-arquitectura-y-ciclo-de-vida.md
-          - Accesibilidad y normativa: Temario/Bloque1/02-accesibilidad-y-normativa.md
-          - Diseño de interfaces: Temario/Bloque1/03-diseno-interfaces-usuario.md
+          - Introducción: Temario/bloque1/index.md
+          - Arquitectura y ciclo de vida: Temario/bloque1/01-arquitectura-y-ciclo-de-vida.md
+          - Accesibilidad y normativa: Temario/bloque1/02-accesibilidad-y-normativa.md
+          - Diseño de interfaces: Temario/bloque1/03-diseno-interfaces-usuario.md

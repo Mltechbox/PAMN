@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://mltechbox.github.io/PAMN/</loc>
+         <loc>https://mltechbox.github.io/PAMN/indexindex/</loc>
+         <lastmod>2025-05-20</lastmod>
+    </url>
+    <url>
+         <loc>https://mltechbox.github.io/PAMN/Temario/bloque1/</loc>
          <lastmod>2025-05-20</lastmod>
     </url>
     <url>

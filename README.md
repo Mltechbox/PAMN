@@ -1,4 +1,4 @@
-# PAMN
+# Programación de Aplicaciones Móviles Nativas
 
 ![Protada](https://github.com/Mltechbox/PAMN/blob/main/S1.png?raw=true/400/800 "PAMN")
 
